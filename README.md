@@ -1,7 +1,7 @@
 # ClearGPT
 ## Close tabs with precision using GPT3
 
-ClearGPT is a browser extension (tested on Chrome and Firefox) that allows you to use natural language to close tabs you no longer need. Here'a video of TabGPT in action:
+ClearGPT is a browser extension (tested on Chrome and Firefox) that allows you to use natural language to close tabs you no longer need. Here'a video of ClearGPT in action:
 
 
 
