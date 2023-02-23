@@ -1,7 +1,7 @@
-# TabGPT
+# ClearGPT
 ## Close tabs with precision using GPT3
 
-TabGPT is a browser extension (tested on Chrome and Firefox) that allows you to use natural language to close tabs you no longer need. Here'a video of TabGPT in action:
+ClearGPT is a browser extension (tested on Chrome and Firefox) that allows you to use natural language to close tabs you no longer need. Here'a video of TabGPT in action:
 
 
 
@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/59703066/220820089-af30fb6a-8205-4513-
 
 ### Current status
 
-TabGPT is currently an *experiment* and not available in the Chrome Web Store. It's quite expensive to run due to the nature of the prompt. Contributions are welcome!
+ClearGPT is currently an *experiment* and not available in the Chrome Web Store. It's quite expensive to run due to the nature of the prompt. Contributions are welcome!
 
 #### Roadmap:
 - [ ] Keep the script running even when popup is closed
@@ -33,13 +33,13 @@ To load the extension, follow the instructions for your browser:
 ### Chrome
 1. In the URL bar, enter `chrome://extensions` and enable Developer Mode.
 2. Click on "Load unpacked" and select the `build/chrome-mv3-prod` folder.
-3. Click on the puzzle piece icon on the Chrome toolbar, and click on TabGPT.
+3. Click on the puzzle piece icon on the Chrome toolbar, and click on ClearGPT.
 4. You can pin the extension to the toolbar for easy access.
 
 ### Firefox
 1. In the URL bar, enter `about:debugging#/runtime/this-firefox` and click on "Load Temporary Add-on".
 2. Select the `build/firefox-mv3-prod/manifest.json` file.
-3. Click on the puzzle piece icon on the Firefox toolbar, and click on TabGPT.
+3. Click on the puzzle piece icon on the Firefox toolbar, and click on ClearGPT.
 4. You can pin the extension to the toolbar for easy access.
 
 
